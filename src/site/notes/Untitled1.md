@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"untitled1","dg-permalink":"untitled1","permalink":"/untitled1/"}
+{"dg-publish":true,"permalink":"/untitled1/","noteIcon":"","updated":"2023-10-07T17:20:13.029-06:00"}
 ---
 
 
