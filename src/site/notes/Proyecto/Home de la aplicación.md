@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto/home-de-la-aplicacion/","updated":"2023-10-08T01:05:12.790-06:00"}
+{"dg-publish":true,"permalink":"/proyecto/home-de-la-aplicacion/","updated":"2023-10-08T11:57:35.590-06:00"}
 ---
 
 ## Definición
@@ -8,7 +8,7 @@ La pantalla de inicio es de acceso público, incluso un usuario no registrado de
 
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/4DXF7ycZqEJkb9UWXnjQPy@7YNFXnKbZAG5gTjjBMefC"></iframe>
 
-De igual manera, en esta pantalla el usuario podrá ver el menú de acceso principal a las demás funciones destacadas como son, [[Mi perfil\|Mi perfil]], [[Registrar consumo\|Registrar consumo]], [[Mi negocio\|Mi negocio]]
+De igual manera, en esta pantalla el usuario podrá ver el menú de acceso principal a las demás funciones destacadas como son, [[Mi perfil\|Mi perfil]], [[Registrar consumo\|Registrar consumo]], [[Proyecto/Mi negocio\|Mi negocio]]
 
 
 ### [[Más cercanas\|Más cercanas]]
