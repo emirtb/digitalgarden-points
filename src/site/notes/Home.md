@@ -16,17 +16,18 @@ sdfsdf sdf<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org
 
 - [[2023-10-07\|2023-10-07]]
 - [[Home\|Home]]
-- [[Proyecto/Untitled 2\|Untitled 2]]
-- [[Proyecto/Untitled 1\|Untitled 1]]
-- [[Proyecto/El usuario\|El usuario]]
+- [[Proyecto/Registro en la aplicación\|Registro en la aplicación]]
+- [[Proyecto/Login\|Login]]
+- [[Proyecto/Versión de la aplicación\|Versión de la aplicación]]
 - [[Personas\|Personas]]
-- [[🎁 Programa de lealtad\|🎁 Programa de lealtad]]
 - [[Untitled\|Untitled]]
-- [[🎁 🏆 Beneficios\|🎁 🏆 Beneficios]]
 - [[Untitled 1\|Untitled 1]]
 - [[templates/Backlog\|Backlog]]
-- [[🙍‍♂️ Consumidor\|🙍‍♂️ Consumidor]]
-- [[👥 Usuario de aplicación\|👥 Usuario de aplicación]]
+- [[Usuario de negocio\|Usuario de negocio]]
+- [[Programa de lealtad\|Programa de lealtad]]
+- [[Beneficios\|Beneficios]]
+- [[Consumidor\|Consumidor]]
+- [[Usuario de aplicación\|Usuario de aplicación]]
 
 { .block-language-dataview}
 
