@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyecto/proyecto-pagina-1/","updated":"2023-10-07T17:57:12.264-06:00"}
+{"dg-publish":true,"permalink":"/proyecto/proyecto-pagina-1/","updated":"2023-10-07T20:58:12.323-06:00"}
 ---
 
 
