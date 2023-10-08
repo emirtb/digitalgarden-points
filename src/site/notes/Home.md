@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2023-10-07T20:42:22.637-06:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2023-10-07T22:47:52.851-06:00"}
 ---
 
   
 
  ![Home-20231007234033862.webp|240](/img/user/assets/Home-20231007234033862.webp)
 
-[[Proyecto/Proyecto-pagina 1\|Proyecto-pagina 1]]
+Aplicación para publicar y gestionar programas de lealtad o fidelización.
+
+[[Proyecto-pagina 1\|Proyecto-pagina 1]]
 
 
 sfsdfds
@@ -15,12 +17,17 @@ sdfsdf sdf<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org
 
 - [[2023-10-07\|2023-10-07]]
 - [[Home\|Home]]
-- [[Proyecto/Proyecto-pagina 1\|Proyecto-pagina 1]]
-- [[Proyecto/Untitled note\|Untitled note]]
+- [[Proyecto/Untitled 2\|Untitled 2]]
+- [[Proyecto/Untitled 1\|Untitled 1]]
+- [[Proyecto/El usuario\|El usuario]]
 - [[Personas\|Personas]]
-- [[🙎Consumidor\|🙎Consumidor]]
 - [[🎁 Programa de lealtad\|🎁 Programa de lealtad]]
 - [[Untitled\|Untitled]]
+- [[🎁 🏆 Beneficios\|🎁 🏆 Beneficios]]
+- [[Untitled 1\|Untitled 1]]
+- [[templates/Backlog\|Backlog]]
+- [[🙍‍♂️ Consumidor\|🙍‍♂️ Consumidor]]
+- [[👥 Usuario de aplicación\|👥 Usuario de aplicación]]
 
 { .block-language-dataview}
 
