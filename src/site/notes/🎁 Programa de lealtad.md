@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programa-de-lealtad/","updated":"2023-10-07T21:28:59.517-06:00"}
+{"dg-publish":true,"permalink":"/programa-de-lealtad/","updated":"2023-10-07T22:17:57.874-06:00"}
 ---
 
 Este es el principal objeto de negocio de la aplicación. 
